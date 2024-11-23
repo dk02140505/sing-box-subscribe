@@ -1,13 +1,13 @@
 {
     "subscribes":[
         {
-            "url": "URL",
+            "url": "https://app.mitce.com/?sid=159638&token=7e8f4a8d372246ef73a5",
             "tag": "tag_1",
             "enabled": true,
             "emoji": 1,
             "subgroup": "",
             "prefix": "",
-            "User-Agent":"v2rayng"
+            "User-Agent":"clashmeta"
         },
         {
             "url": "URL",
@@ -26,6 +26,6 @@
     "save_config_path": "./config.json",
     "auto_backup": false,
     "exclude_protocol":"ssr",
-    "config_template": "",
+    "config_template": "https://raw.githubusercontent.com/dk02140505/kexue/refs/heads/main/tun.json",
     "Only-nodes": false
 }
