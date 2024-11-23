@@ -1,7 +1,7 @@
 {
     "subscribes":[
         {
-            "url": "https://app.mitce.com/?sid=159638&token=7e8f4a8d372246ef73a5",
+            "url": "url",
             "tag": "tag_1",
             "enabled": true,
             "emoji": 1,
