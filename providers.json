@@ -26,6 +26,6 @@
     "save_config_path": "./config.json",
     "auto_backup": false,
     "exclude_protocol":"ssr",
-    "config_template": "https://raw.githubusercontent.com/dk02140505/kexue/refs/heads/main/tun.json",
+    "config_template": "",
     "Only-nodes": false
 }
